@@ -1,0 +1,16 @@
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\bin\Debug\net5.0\Desafio-de-projeto-da-DIO.exe
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\bin\Debug\net5.0\Desafio-de-projeto-da-DIO.deps.json
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\bin\Debug\net5.0\Desafio-de-projeto-da-DIO.runtimeconfig.json
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\bin\Debug\net5.0\Desafio-de-projeto-da-DIO.runtimeconfig.dev.json
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\bin\Debug\net5.0\Desafio-de-projeto-da-DIO.dll
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\bin\Debug\net5.0\ref\Desafio-de-projeto-da-DIO.dll
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\bin\Debug\net5.0\Desafio-de-projeto-da-DIO.pdb
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\obj\Debug\net5.0\Desafio-de-projeto-da-DIO.csproj.AssemblyReference.cache
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\obj\Debug\net5.0\Desafio-de-projeto-da-DIO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\obj\Debug\net5.0\Desafio-de-projeto-da-DIO.AssemblyInfoInputs.cache
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\obj\Debug\net5.0\Desafio-de-projeto-da-DIO.AssemblyInfo.cs
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\obj\Debug\net5.0\Desafio-de-projeto-da-DIO.csproj.CoreCompileInputs.cache
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\obj\Debug\net5.0\Desafio-de-projeto-da-DIO.dll
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\obj\Debug\net5.0\ref\Desafio-de-projeto-da-DIO.dll
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\obj\Debug\net5.0\Desafio-de-projeto-da-DIO.pdb
+E:\Projetos_e_estudos\Desafio-de-projeto-da-DIO\PrimeiroProjetoComDotNETConsole\obj\Debug\net5.0\Desafio-de-projeto-da-DIO.genruntimeconfig.cache
