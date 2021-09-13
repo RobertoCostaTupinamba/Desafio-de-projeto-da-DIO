@@ -6,12 +6,14 @@ namespace Desafio_de_projeto_da_DIO
     {
         static void Main(string[] args)
         {
-            int numeroDeVezes = 5;
-
-            for (int i = 0; i < numeroDeVezes; i++)
-            {
-                Console.WriteLine($"Ola mundo com .NET {i}");
-            }
+            var s = new Pilha();
+            s.Empilha(1);
+            s.Empilha(2);
+            s.Empilha(3);
+            Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
         }
     }
 }
